@@ -1,0 +1,8 @@
+{
+  "name": "CÓPIA CRM BASE",
+  "description": "Tela de login oficial e corporativa do CRM Fênix World com ambiente premium e alta sofisticação.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
